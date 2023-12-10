@@ -2,5 +2,5 @@
 
 **stuff**
   
-- 💻 currently working on: FEPPS
+- 💻 currently working on: LRAT
 - 💬 languages: c++, c, python, bash
