@@ -2,5 +2,5 @@
 
 **stuff**
   
-- 💻 currently working on: LRAT
+- 💻 currently working on: displace
 - 💬 languages: c++, c, python, bash
