@@ -1,5 +1,5 @@
 i been sippin codeine i dont give no fucks about my liver
 
-discord - truereligionjacket
+discord - elder
 
 instagram - truereligionjacket
